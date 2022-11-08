@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mpdf/mpdf": "^5.7",
+        "dompdf/dompdf": "^2.0",
+        "chrome-php/chrome": "^1.7"
+    }
+}
